@@ -1,0 +1,32 @@
+{
+    "nivel_1":
+    {
+        "ruta_mazos": [
+            "assets/img/decks/black_deck_expansion_1",
+            "assets/img/decks/blue_deck_expansion_1",
+            "assets/img/decks/blue_deck_expansion_2",
+            "assets/img/decks/blue_deck_expansion_3",
+            "assets/img/decks/golden_deck_expansion_1",
+            "assets/img/decks/green_deck_expansion_1",
+            "assets/img/decks/green_deck_expansion_2",
+            "assets/img/decks/green_deck_expansion_3",
+            "assets/img/decks/platinum_deck_expansion_1",
+            "assets/img/decks/purple_deck_expansion_1",
+            "assets/img/decks/purple_deck_expansion_2",
+            "assets/img/decks/red_deck_expansion_1",
+            "assets/img/decks/red_deck_expansion_2",
+            "assets/img/decks/red_deck_expansion_3",
+            "assets/img/decks/silver_deck_expansion_1",
+            "assets/img/decks/yellow_deck_expansion_1"
+        ],
+        "coord_mazo_enemigo": [0,0],
+        "coord_mazo_jugador": [0,0],
+        "cant_cartas_jugadores": 10
+    },
+    "nivel_2": {
+        "ruta_mazo": "",
+        "coord_mazo_enemigo": [0,0],
+        "coord_mazo_jugador": [0,0],
+        "cant_cartas_jugadores": 10
+    }
+}
